@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 /**
  * Proporciona un método para establecer una conexión a la base de datos MySQL.
- * Requiere el controlador JDBC de MySQL para funcionar.
+ * Necesita el controlador JDBC de MySQL para funcionar.
  * 
  * @author José Manuel Leyva Munguía
  * @version 1.0
